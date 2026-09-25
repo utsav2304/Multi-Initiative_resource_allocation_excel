@@ -1,4 +1,3 @@
-# Multi-Initiative_resource_allocation_excel
 # Multi-Initiative Resource Allocation & Prioritization Tracker
 
 An Excel-based operations tool that tracks tasks across multiple concurrent initiatives sharing a common resource pool (Budget, Staff-Hours, Vendor Slots), flags bottlenecks automatically, and recommends which tasks should get resources first when capacity is constrained.
